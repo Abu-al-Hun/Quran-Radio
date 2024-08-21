@@ -11,7 +11,7 @@ Wick! is a dedicated group of developers working together on various projects. O
 
 Here are some of the key projects we are working on:
 
-1. **Project 1**: System_bot.
+1. **Project 1**: Quran-Radio.
 
 ## Team Members
 
