@@ -1,7 +1,7 @@
 # Wick!
 ![Skoda Team Logo](https://imgur.com/khpDPwR.png)
 
-Welcome to the Skoda Team's repository!
+Welcome to the Wick!'s repository!
 
 ## About Us
 
@@ -39,4 +39,4 @@ For any inquiries or questions, please contact us at [Emile](hanysamer1911@gmail
 
 ---
 
-Thank you for being a part of Skoda Team!
+Thank you for being a part of Wick!
