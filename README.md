@@ -5,7 +5,7 @@ Welcome to the Skoda Team's repository!
 
 ## About Us
 
-Skoda Team is a dedicated group of developers working together on various projects. Our mission is to collaborate and create innovative solutions that make a difference. We are passionate about coding, learning, and growing together.
+Wick! is a dedicated group of developers working together on various projects. Our mission is to collaborate and create innovative solutions that make a difference. We are passionate about coding, learning, and growing together.
 
 ## Projects
 
