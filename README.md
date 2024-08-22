@@ -1,11 +1,12 @@
-# Wick!
-![Skoda Team Logo](https://imgur.com/khpDPwR.png)
+# Skoda Team
 
-Welcome to the Wick!'s repository!
+![Skoda Team Logo](https://imgur.com/FCbhNot.png)
+
+Welcome to the Skoda Team's repository!
 
 ## About Us
 
-Wick! is a dedicated group of developers working together on various projects. Our mission is to collaborate and create innovative solutions that make a difference. We are passionate about coding, learning, and growing together.
+Skoda Team is a dedicated group of developers working together on various projects. Our mission is to collaborate and create innovative solutions that make a difference. We are passionate about coding, learning, and growing together.
 
 ## Projects
 
@@ -39,4 +40,4 @@ For any inquiries or questions, please contact us at [Emile](hanysamer1911@gmail
 
 ---
 
-Thank you for being a part of Wick!
+Thank you for being a part of Skoda Team!
